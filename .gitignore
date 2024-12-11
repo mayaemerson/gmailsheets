@@ -1,0 +1,11 @@
+
+.clasp.json
+.claspignore
+.clasp_credentials.json
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

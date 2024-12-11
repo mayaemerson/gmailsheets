@@ -1,0 +1,20 @@
+{
+  "name": "gmail-sheets",
+  "version": "1.0.0",
+  "description": "Controle de E-mail no sheets",
+  "main": "index.js",
+  "scripts": {
+    "login": "clasp login",
+    "clone": "clasp clone 1wbZ9FHMJvf9KWHV4hFJNUrIphK5V59fIISZ1LwgRiwjvNMzOUM5yHyNi --rootDir apps",
+    "logout": "clasp logout",
+    "pull": "clasp pull",
+    "push": "clasp push",
+    "start": "clasp push --watch"
+  },
+  "author": "mayamemerson",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.86"
+  }
+}
