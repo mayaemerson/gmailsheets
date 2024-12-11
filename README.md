@@ -73,4 +73,4 @@ Para facilitar, você pode usar uma **planilha modelo pronta** e personalizada p
 ## **Tutorial no Medium**
 
 Você pode encontrar um tutorial detalhado no **MEDIUM**.  
-👉 [Clique aqui para baixar a planilha modelo](https://bit.ly/gmailrespondermedium)
+👉 [Clique aqui para ir para o tutorial no Medium](https://bit.ly/gmailrespondermedium)
