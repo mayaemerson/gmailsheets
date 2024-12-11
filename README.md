@@ -74,3 +74,6 @@ Para facilitar, você pode usar uma **planilha modelo pronta** e personalizada p
 
 Você pode encontrar um tutorial detalhado no **MEDIUM**.  
 👉 [Clique aqui para ir para o tutorial no Medium](https://bit.ly/gmailrespondermedium)
+
+Se preferir aprender assistindo, temos um vídeo completo explicando este projeto no YouTube.  
+👉 [Clique aqui para assistir no YouTube](https://bit.ly/gmailsheetsyoutube)
